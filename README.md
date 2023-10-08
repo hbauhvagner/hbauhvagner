@@ -42,7 +42,7 @@ object **hbauhvagner** {
 [twitter]: https://twitter.com/hbauhvagner
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/hbauhvagner/
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/vagner-nascimento-dev/
+[linkedin]: https://www.linkedin.com/in/vagner-nascimento-dev/
 
 <br>
 
