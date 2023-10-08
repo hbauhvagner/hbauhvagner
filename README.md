@@ -6,13 +6,18 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```JavaScript
-object **hbauhvagner** {
- val name = "Vagner Nascimento"
- val acknowledgements = "JavaScript | React | Node"
+```js
+import Desenvolvedor from "hbauhvagner";
 
- val languages = listOf("JavaScript", "TypeScript)
+class SobreMim extends Desenvolvedor {
+  nome = "Vagner Nascimento";
+  area = "JavaScript Developer";
+}
 
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript, TypeScript"];
+  bibliotecas = ["React"];
+  frameworks = ["Next.js, Fastify, NestJS"];
 }
 ```
 
